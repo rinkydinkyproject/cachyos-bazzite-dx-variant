@@ -1,7 +1,7 @@
 # CachyOS-Kernel-Bazzite-Dx
+MIRROR FROM ORIGINAL REPO, please don't use until this message is gone and updated
 
-> [!WARNING]
-> I built this image for me. You may use it yourself, of course, but I provide no support. I strongly suggest learning how to customize your own image using the [ublue image template](https://github.com/ublue-os/image-template). Documentation can be found [here.](https://blue-build.org/)
+> [!WARNING]This repo/distro is under HEAVY development for now. Existing changes will be noted below, currently this is a 1:1 mirror of the original it was forked from. 
 
 My system: Framework 13 Laptop (12th Gen Intel)
 
